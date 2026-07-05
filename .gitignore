@@ -1,0 +1,155 @@
+# ==========================================
+# .NET / Visual Studio / JetBrains Rider
+# ==========================================
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Visual Studio cache
+.vs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# JetBrains Rider / IntelliJ
+.idea/
+*.sln.iml
+.idea_modules/
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# MonoDevelop
+*.userprefs
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# NuGet cache
+project.assets.json
+project.nuget.cache
+
+# Paket
+.paket/
+paket-files/
+
+# Cake
+tools/**
+!tools/packages.config
+
+# BenchmarkDotNet
+BenchmarkDotNet.Artifacts/
+
+# Test Results
+[Tt]est[Rr]esult*/
+[Tt]est[Rr]esults/
+*.trx
+*.coverage
+*.coveragexml
+coverage/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Publish
+publish/
+PublishProfiles/
+
+# IIS Express
+*.dbmdl
+
+# ASP.NET generated files
+Generated/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment
+.env
+.env.*
+
+# Frontend build output (descomenta si son generados)
+# wwwroot/dist/
+# wwwroot/lib/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Visual Studio Code
+.vscode/
+
+# Rider caches
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries/
+.idea/**/shelf/
+
+# Rider generated files
+.idea/**/contentModel.xml
+.idea/**/modules.xml
+
+# DotCover
+*.dotCover
+
+# NCrunch
+_NCrunch_*
+.*crunch*.local.xml
+
+# Azure
+PublishScripts/
+
+# SQL Server
+*.mdf
+*.ldf
+
+# Backup files
+*.bak
+*.backup
+
+# Secrets
+secrets.json
+
+# Local settings
+appsettings.Development.json
+
+# Local publish profiles
+Properties/PublishProfiles/*.pubxml.user
+
+# Generated package folders
+artifacts/
+
+# Local history
+.localhistory/
